@@ -1,5 +1,5 @@
 # My-mini-project-colection
-for progress and growth tracking
+this Repo is made for progress and growth tracking
 
 Intro
 
